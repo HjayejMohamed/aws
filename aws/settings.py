@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'mydb',
         'USER':'admin',
         'PASSWORD':'11041998',
-        'HOST':'my-db-mysql.cna8razndr1v.us-east-1.rds.amazonaws.com',
+        'HOST':'mysql-django-db.cna8razndr1v.us-east-1.rds.amazonaws.com',
         'PORT':'3306',
     }
 }
