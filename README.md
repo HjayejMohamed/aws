@@ -1,4 +1,6 @@
 # aws
+![image](https://user-images.githubusercontent.com/93601760/210186924-ce96a1e7-6a23-407c-9ebd-ecc0dd89d509.png)
+
 # commands:
 
 sudo apt update
